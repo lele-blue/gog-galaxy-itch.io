@@ -3,6 +3,9 @@
 ## This project is being rebuilt on top of official APIs, please use a version that uses the WebAPI until then
 [WebAPI version by tauqua](https://github.com/tauqua/gog-galaxy-itch.io)
 
+
+# Old README
+
 An integration for itch.io
 
 It's a bit of a hack at the moment (hardcoded paths to the itch clients db, useless oauth2 signin), but hey it works.
