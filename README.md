@@ -3,7 +3,7 @@
 *There is also a version that supports showing all owned games, but some features of this version are not yet implemented there*
 [WebAPI version by tauqua](https://github.com/tauqua/gog-galaxy-itch.io)
 
-# Old README
+# README
 
 An integration for itch.io
 
