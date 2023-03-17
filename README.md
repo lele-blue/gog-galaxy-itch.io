@@ -1,8 +1,7 @@
 # gog-galaxy-itch.io
 
-## This project is being rebuilt on top of official APIs, please use a version that uses the WebAPI until then
+*There is also a version that supports showing all owned games, but some features of this version are not yet implemented there*
 [WebAPI version by tauqua](https://github.com/tauqua/gog-galaxy-itch.io)
-
 
 # Old README
 
